@@ -1,0 +1,11 @@
+{
+    "name": "Splintershards",
+    "symbol": "SPS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Splintershards (SPS) is the governance token for the Splinterlands blockchain-based trading card game.",
+    "website": "https://splinterlands.com",
+    "explorer": "https://etherscan.io/token/0x00813e3421e1367353bfe7615c7f7f133c89df74",
+    "status": "active",
+    "id": "0x00813e3421e1367353bfe7615c7f7f133c89df74"
+}
